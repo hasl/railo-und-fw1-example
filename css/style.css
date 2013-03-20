@@ -1,0 +1,32 @@
+body { font-family: sans-serif; }
+a { text-decoration: none; }
+.body-content {
+    width: 800px;
+    margin: auto;
+}
+
+nav a {
+    display: block;
+    float: left;
+    padding: 10px;
+    margin: 5px 5px 5px 0;
+    background-color: #333;
+    border-radius: 5px;
+    color: white;
+}
+nav a:active {
+    background-color: #aaa;
+}
+
+#home #goto-home,
+#about #goto-about,
+#contact #goto-about-contact {
+    background-color: #aaa;
+}
+
+
+.clear {
+    clear: both;
+}
+
+

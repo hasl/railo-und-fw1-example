@@ -1,0 +1,5 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","web-0","03/20/2013","14:19:12","","invalid component definition, can't find org.corfield.framework"
+"ERROR","web-0","03/20/2013","14:21:27","","invalid component definition, can't find org.corfield.framework"
+"ERROR","web-0","03/20/2013","14:26:09","","invalid component definition, can't find org.corfield.framework"
+"ERROR","web-0","03/20/2013","14:29:28","","invalid component definition, can't find org.corfield.framework"
