@@ -1,2 +1,0 @@
-Mapping-Type: "regular"
-Mapping-Virtual-Path: "/railo-context-compiled"
